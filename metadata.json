@@ -1,0 +1,7 @@
+{
+  "name": "Harness Engineering Generator",
+  "description": "Architectural foundation and engineering harness generator for AI coding agents and multi-session software projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
